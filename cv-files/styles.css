@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+main {
+    margin: auto;
+    width: 60%;
+    height: 100vh;
+    background-color: #f2f4f7;
+    padding: 10px;
+    font: 17px 'Open Sans', sans-serif;
+}
+
+header {
+    padding: 3%;
+    background-color: #8995ad;
+}
+
+div.info {
+    margin-top: 10%;
+}
+
+.info_left {
+    width: 30%;
+    float: left;
+    padding-left: 2%;
+}
+
+.info_right {
+    width: 60%;
+    float: right;
+    padding-right: 2%;
+}
+
+section h2 {
+    padding-bottom: 3%;
+}
+
+h1 {
+    margin-left: 7%;
+}
+
+h2.white_color {
+    color: white;
+}
+
+
+img {
+    width: 20%;
+    height: 20%;
+    margin-right: 4%;
+    float: left;
+    border-radius: 2px;
+}
+
+img.icon_courses {
+    width: 25%;
+}
+
+img.icon_courses.coursera {
+    padding-top: 2%;
+}
+
+
+h1,
+h2 {
+    color: darkslategrey;
+}
+
+p {
+    padding: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 2%;
+    border-bottom: 1px solid rgba(137, 149, 173, 0.6);
+}
+
+i.fas {
+    margin-right: 4px;
+}
